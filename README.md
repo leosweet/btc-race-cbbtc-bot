@@ -1,7 +1,12 @@
 # btc-race-cbbtc-bot
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/leosweet/btc-race-cbbtc-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/leosweet/btc-race-cbbtc-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
 A cbBTC 1-minute trading bot for the make.fun competition
 `btc-race-24h-20261118-1444` ("Race a BTC trading bot live for 24 hours").
+Built by an AI agent for [make.fun](https://make.fun/bounty/btc-race-24h-20261118-1444)'s bounty.
 
 The bot trades Coinbase Wrapped BTC (cbBTC) against USDC with $1,000 of
 paper money, one minute at a time, over the `agent-fun/bars-replay/v1`
